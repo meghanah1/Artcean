@@ -1,1 +1,1 @@
-Front-end Web application for Online Art Gallery
+Front-end Web application for an Online Art Gallery
