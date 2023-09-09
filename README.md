@@ -1,2 +1,2 @@
-Artcean - Art + Ocean
-Meaning: Ocean of Arts
+Artcean -  Ocean of Arts
+Front-end Web application for Online Art Gallery
